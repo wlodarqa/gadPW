@@ -1,0 +1,21 @@
+{
+  "name": "gadpw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlodarqa/gadPW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlodarqa/gadPW/issues"
+  },
+  "homepage": "https://github.com/wlodarqa/gadPW#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.35.0"
+  }
+}
